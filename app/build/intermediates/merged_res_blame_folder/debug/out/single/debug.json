@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/drawable-mdpi_splash.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/drawable-xxxhdpi_splash.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/drawable-hdpi_splash.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/layout_activity_splash.xml.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/xml_network_security_config.xml.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/drawable-xhdpi_splash.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/xml_provider_paths.xml.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/raw_loading_img.gif.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/raw/loading_img.gif"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/layout_activity_main.xml.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "kr.co.itforone.skmachine.app-merged_res-23:/drawable-xxhdpi_splash.png.flat",
+        "source": "kr.co.itforone.skmachine.app-main-25:/drawable-xxhdpi/splash.png"
+    }
+]

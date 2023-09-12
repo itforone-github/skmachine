@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">machinedeal.co.kr</domain>
+        <domain includeSubdomains="true">sjmachine.com</domain>
+        <domain includeSubdomains="true">중고mct.com</domain>
+        <domain includeSubdomains="true">kormazak.co.kr</domain>
+        <domain includeSubdomains="true">blog.daara.co.kr</domain>
+    </domain-config>
+</network-security-config>
